@@ -9,7 +9,8 @@ Uma pagina simples de Login, com transições.
 
 ## Instruções de como executar a aplicação
 Acesse o link:
-https://nanicka.github.io/projeto-restic/?
+https://nanicka.github.io/projeto-restic/
+
 
 ## Tecnologias utilizadas
 
